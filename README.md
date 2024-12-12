@@ -44,3 +44,5 @@ This project is open-source and can be used and modified freely.
 ---
 
 For any questions or updates, feel free to contact me at [khalidmahmo827@gmail.com](mailto:khalidmahmo827@gmail.com).
+
+[https://roadmap.sh/projects/single-page-cv]
